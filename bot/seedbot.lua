@@ -221,7 +221,7 @@ function create_config( )
     },
     sudo_users = {112737535,110509621,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
-    realm = {},--Realms Id
+    realm = {500053201},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[admin : @nefr4t
     nefrat robot
