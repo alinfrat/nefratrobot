@@ -35,7 +35,7 @@ function on_binlog_replay_end()
 
   _config = load_config()
 
-  -- load plugins
+  -- load plugins  
   plugins = {}
   load_plugins()
 end
