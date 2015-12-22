@@ -219,9 +219,9 @@ function create_config( )
     "download_media",
     "invite"
     },
-    sudo_users = {112737535,110509621,93068445,tonumber(our_id)},--Sudo users
+    sudo_users = {93068445,110509621,000000000,tonumber(our_id)},--Sudo users
     disabled_channels = {},
-    realm = {500053201},--Realms Id
+    realm = {58637980},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[admin : @nefr4t
     nefrat robot
